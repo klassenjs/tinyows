@@ -1,0 +1,9 @@
+tinyows (1.1.0-jsk1) UNRELEASED; urgency=low
+
+  [ Jim Klassen ]
+  * Non-maintainer upload.
+  * Fix build errors on debian
+  * Package for wheezy
+
+ -- Jim Klassen <klassen.js@gmail.com>  Wed, 12 Nov 2014 21:20:21 -0600
+
